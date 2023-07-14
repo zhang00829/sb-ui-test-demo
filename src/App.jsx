@@ -1,5 +1,5 @@
 import { useAuth } from "./useAuth";
-import InboxScreen from "./InboxScreen";
+import InboxScreen from "./InboxScreen.stories.jsx";
 import LoginScreen from "./LoginScreen";
 import "./index.css";
 function App() {
